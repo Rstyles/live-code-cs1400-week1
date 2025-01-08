@@ -1,0 +1,14 @@
+/workspaces/dotnet/CollectionsDemo/bin/Debug/net9.0/CollectionsDemo
+/workspaces/dotnet/CollectionsDemo/bin/Debug/net9.0/CollectionsDemo.deps.json
+/workspaces/dotnet/CollectionsDemo/bin/Debug/net9.0/CollectionsDemo.runtimeconfig.json
+/workspaces/dotnet/CollectionsDemo/bin/Debug/net9.0/CollectionsDemo.dll
+/workspaces/dotnet/CollectionsDemo/bin/Debug/net9.0/CollectionsDemo.pdb
+/workspaces/dotnet/CollectionsDemo/obj/Debug/net9.0/CollectionsDemo.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/dotnet/CollectionsDemo/obj/Debug/net9.0/CollectionsDemo.AssemblyInfoInputs.cache
+/workspaces/dotnet/CollectionsDemo/obj/Debug/net9.0/CollectionsDemo.AssemblyInfo.cs
+/workspaces/dotnet/CollectionsDemo/obj/Debug/net9.0/CollectionsDemo.csproj.CoreCompileInputs.cache
+/workspaces/dotnet/CollectionsDemo/obj/Debug/net9.0/CollectionsDemo.dll
+/workspaces/dotnet/CollectionsDemo/obj/Debug/net9.0/refint/CollectionsDemo.dll
+/workspaces/dotnet/CollectionsDemo/obj/Debug/net9.0/CollectionsDemo.pdb
+/workspaces/dotnet/CollectionsDemo/obj/Debug/net9.0/CollectionsDemo.genruntimeconfig.cache
+/workspaces/dotnet/CollectionsDemo/obj/Debug/net9.0/ref/CollectionsDemo.dll

@@ -1,0 +1,14 @@
+/workspaces/dotnet/GenericsDemo/bin/Debug/net9.0/GenericsDemo
+/workspaces/dotnet/GenericsDemo/bin/Debug/net9.0/GenericsDemo.deps.json
+/workspaces/dotnet/GenericsDemo/bin/Debug/net9.0/GenericsDemo.runtimeconfig.json
+/workspaces/dotnet/GenericsDemo/bin/Debug/net9.0/GenericsDemo.dll
+/workspaces/dotnet/GenericsDemo/bin/Debug/net9.0/GenericsDemo.pdb
+/workspaces/dotnet/GenericsDemo/obj/Debug/net9.0/GenericsDemo.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/dotnet/GenericsDemo/obj/Debug/net9.0/GenericsDemo.AssemblyInfoInputs.cache
+/workspaces/dotnet/GenericsDemo/obj/Debug/net9.0/GenericsDemo.AssemblyInfo.cs
+/workspaces/dotnet/GenericsDemo/obj/Debug/net9.0/GenericsDemo.csproj.CoreCompileInputs.cache
+/workspaces/dotnet/GenericsDemo/obj/Debug/net9.0/GenericsDemo.dll
+/workspaces/dotnet/GenericsDemo/obj/Debug/net9.0/refint/GenericsDemo.dll
+/workspaces/dotnet/GenericsDemo/obj/Debug/net9.0/GenericsDemo.pdb
+/workspaces/dotnet/GenericsDemo/obj/Debug/net9.0/GenericsDemo.genruntimeconfig.cache
+/workspaces/dotnet/GenericsDemo/obj/Debug/net9.0/ref/GenericsDemo.dll
